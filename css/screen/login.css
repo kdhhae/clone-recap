@@ -1,0 +1,34 @@
+.index__main{
+    background-color:var(--green);
+}
+.header-title{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.header-title__second{
+    display: flex;
+    font-size: 28px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.submit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    width: 100%;
+}
+.submit input{
+    margin-top: 30px;
+    padding: 30px 100px;
+    text-align: center;
+    font-weight: 600;
+border: none;
+}
+.submit__login{
+    padding: 10px;
+}
